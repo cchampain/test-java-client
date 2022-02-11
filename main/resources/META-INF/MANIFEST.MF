@@ -1,0 +1,8 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: nuxeo.twentyone.project
+Bundle-Version: 1.0.0
+Bundle-Name: my-nuxeo-project-2020-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: nuxeo.twentyone.project.my-nuxeo-project-2020-core;singleton=true
